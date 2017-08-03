@@ -1,0 +1,12 @@
+{
+  "name": "expressplay",
+  "version": "1.0.0",
+  "description": "Test environment to learn and practice with Express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Michael Mann",
+  "license": "ISC"
+}
