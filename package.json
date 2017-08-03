@@ -8,5 +8,10 @@
     "start": "node server.js"
   },
   "author": "Michael Mann",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "*",
+    "path": "^0.12.7"
+  }
 }

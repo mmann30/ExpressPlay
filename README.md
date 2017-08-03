@@ -1,1 +1,1 @@
-Test application for learning/practice with Express
+Test application for learning Express with Body-Parser and Path packages.
